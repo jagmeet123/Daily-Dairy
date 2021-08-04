@@ -1,0 +1,52 @@
+.signOut123{
+    width: 14rem;
+    height: 3.65rem;
+    font-size: 26px;
+    font-family: 'Hahmlet', serif;
+    font-weight: 900;
+    border-radius: 34px;
+    outline: none;
+    position:absolute;
+    right: 37px;
+    bottom: 3rem;
+}
+
+.container123{
+    height: 100%;
+    width: 100%;
+    color: black;
+    position: relative;
+}
+
+.posts{
+    border: 50px solid white;
+    color:black;
+}
+
+.newPost{
+    padding: 2px;
+    margin: 15px;
+    margin-bottom: 10px;
+}
+
+.newPost button{
+    width: 10rem;
+    height: 3.4rem;
+    border-radius: 20px;
+    float: right;
+    margin-right:40px;
+    background-color: #3498db;
+    color: white;
+    font-size: 1.4rem;
+    outline: none;
+    margin-bottom: 20px;
+}
+
+.modal123{
+    height:50px;
+    width: 50px;
+    border:2px solid;
+    position: fixed;
+    top:10px;
+    left:50px;
+}

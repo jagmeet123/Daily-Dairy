@@ -1,0 +1,28 @@
+.mind{
+    font-size: 1.7em;
+    width:30rem;
+    padding: 5px;
+    background-color: #f43a3ae8;
+    color:white
+}
+
+span{
+    font-size: 1.5rem;
+}
+.username{
+    position: fixed;
+    right: calc((100vw - 15rem) / 2)
+}
+
+.username p p {
+    font-size: 2rem;
+}
+
+.username p p{
+    font-family: 'Hahmlet', serif;
+}
+
+.navbarContainer{
+    background-color: white;
+    color: black;
+}
